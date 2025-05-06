@@ -1,4 +1,3 @@
-Compilation instructions:
 # Memory Match Game
 
 ## Compilation Instructions
